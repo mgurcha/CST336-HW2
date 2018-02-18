@@ -56,13 +56,12 @@
                 print "You Win!";
             }
             
-            elseif($computerTotal > $playerTotal){
-                print "Computer Wins!";
-            }
-            
-            else{
+            if($computerTotal == $playerTotal){
                 print "Tie!";
             }
+            
+            ($computerTotal > $playerTotal) ? print "Computer Wins"
+            : print "";
             print "</div>";
 ?>
         

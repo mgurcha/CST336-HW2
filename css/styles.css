@@ -84,6 +84,7 @@
         position:absolute;
         top:360px;
         line-height: .7em;
+        text-align: center;
     }
     
     #product_h{
@@ -94,6 +95,7 @@
         position:absolute;
         top:440px;
         line-height: .7em;
+        text-align: center;
     }
     
     #total_score_c{
@@ -104,6 +106,7 @@
         position:absolute;
         top:740px;
         line-height: .7em;
+        text-align: center;
     }
     
     #product_c{
@@ -114,6 +117,7 @@
         position:absolute;
         top:830px;
         line-height: .7em;
+        text-align: center;
     }
     
     #result{
